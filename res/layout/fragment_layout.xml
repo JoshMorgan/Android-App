@@ -1,0 +1,56 @@
+<info.tregmine.app.DashboardLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="@drawable/background" >
+
+    <!-- Chat Button -->
+
+    <Button
+        android:id="@+id/btn_chat"
+        style="@style/MenuButton"
+        android:drawableTop="@drawable/btn_chat"
+        android:text="@string/chat" />
+
+    <!-- Forums Button -->
+
+    <Button
+        android:id="@+id/btn_forums"
+        style="@style/MenuButton"
+        android:drawableTop="@drawable/btn_forums"
+        android:text="@string/forums" />
+
+    <!-- Donate Button -->
+
+    <Button
+        android:id="@+id/btn_donate"
+        style="@style/MenuButton"
+        android:drawableTop="@drawable/btn_donate"
+        android:text="@string/donate" />
+
+    <!-- Reports Button -->
+
+    <Button
+        android:id="@+id/btn_reports"
+        style="@style/MenuButton"
+        android:drawableTop="@drawable/btn_reports"
+        android:text="@string/reports" />
+
+    <!-- Commands Button -->
+
+    <Button
+        android:id="@+id/btn_commands"
+        style="@style/MenuButton"
+        android:drawableTop="@drawable/btn_commands"
+        android:text="@string/commands" />
+
+    <!-- Support Button -->
+
+    <Button
+        android:id="@+id/btn_support"
+        style="@style/MenuButton"
+        android:drawableTop="@drawable/btn_support"
+        android:text="@string/support" />
+
+</info.tregmine.app.DashboardLayout>

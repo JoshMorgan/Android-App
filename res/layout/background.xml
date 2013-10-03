@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Background" >
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="false"
+        android:contentDescription="Background"
+        android:scaleType="center"
+        android:src="@drawable/background"
+        tools:ignore="HardcodedText"/>
+
+</LinearLayout>

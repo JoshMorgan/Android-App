@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tregmine</string>
+    
+    <string name="chat">Server Chat</string>
+    <string name="chat_screen">Chat Screen</string>
+    
+    <string name="forums">Forums</string>
+    <string name="forums_screen">Forums Screen</string>
+    
+    <string name="donate">Donate</string>
+    <string name="donate_screen">Donate Screen</string>
+    
+    <string name="reports">Reports</string>
+    <string name="reports_screen">Reports Screen</string>
+    
+    <string name="commands">Commands</string>
+    <string name="commands_screen">Commands Screen</string>
+    
+    <string name="support">Support</string>
+    <string name="support_screen">Support Screen</string>
+    <string name="commands_reference_screen">Commands Reference Screen</string>
+
+</resources>
